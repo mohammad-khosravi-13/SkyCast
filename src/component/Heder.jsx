@@ -42,7 +42,7 @@ const Heder = () => {
 
   return (
     <div className="weather-app bg-gradient-to-b from-blue-900 via-blue-800 to-blue-700 p-8 rounded-2xl shadow-2xl max-w-lg mx-auto text-white relative overflow-hidden">
-      {/* انیمیشن خورشید و ابر */}
+      
       <div className="absolute top-[-30px] right-[-30px] w-32 h-32 bg-gradient-to-b from-yellow-300 to-yellow-500 rounded-full animate-spin-slow"></div>
       <div className="absolute top-8 right-8 w-16 h-8 bg-white/40 rounded-full blur-lg"></div>
 
